@@ -1,0 +1,21 @@
+
+
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    color: #FFD23F;
+    font-family: fira code;
+}
+.list-unstyled{
+    font-family: fira code;
+}
+.form-control{
+    font-family: fira code;
+}
+.btn{
+    font-family: fira code;
+}
